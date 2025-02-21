@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnet-data-protection", "dotnet-data-protection.csproj", "{5A922013-1E9E-ADAE-9467-DBEFD290B23B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A922013-1E9E-ADAE-9467-DBEFD290B23B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A922013-1E9E-ADAE-9467-DBEFD290B23B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A922013-1E9E-ADAE-9467-DBEFD290B23B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A922013-1E9E-ADAE-9467-DBEFD290B23B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81863399-F796-408B-918E-7D920E5FF393}
+	EndGlobalSection
+EndGlobal

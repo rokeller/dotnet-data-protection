@@ -1,6 +1,6 @@
 # .Net Data Protection APIs Example
 
-.Net has shipped the [Data Protection APIs][https://learn.microsoft.com/en-us/aspnet/core/security/data-protection/introduction]
+.Net has shipped the [Data Protection APIs](https://learn.microsoft.com/en-us/aspnet/core/security/data-protection/introduction)
 for a while now. It's a pretty good system for easily keeping data secure and it
 does include key management and rotation.
 
